@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "Xiaomi4",
-      "repo": "https://github.com/SonicBSV/android_kernel_xiaomi_markw-4.9",
-      "branch": "master",
-      "device": "markw",
-      "defconfig": "markw_defconfig"
+      "repo": "https://github.com/Canary233/android_kernel_xiaomi_clover",
+      "branch": "11",
+      "device": "clover",
+      "defconfig": ""
     },
     "toolchains": [
       {
