@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi4",
+      "name": "Xiaomipad4",
       "repo": "https://github.com/Canary233/android_kernel_xiaomi_clover",
       "branch": "11",
       "device": "clover",
-      "defconfig": ""
+      "defconfig": "arch/arm64/configs/clover_defconfig"
     },
     "toolchains": [
       {
